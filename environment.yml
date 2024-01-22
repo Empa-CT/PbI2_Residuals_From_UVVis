@@ -1,0 +1,22 @@
+name: combi
+channels:
+  - intel
+  - defaults
+dependencies:
+  - python=3.10
+  - notebook
+  - h5py
+  - pandas
+  - pytables
+  - scipy
+  - matplotlib
+  - seaborn
+  - ipywidgets
+  - plotly
+  - openpyxl
+  - selenium
+  - chart-studio
+  - pyarrow
+  - fastparquet
+  - xgboost
+prefix: C:\Users\wiea\Anaconda3\envs\combi
